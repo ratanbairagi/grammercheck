@@ -1,0 +1,26 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.gingersoftware.com	TRUE	/content/wp-content/plugins	FALSE	1999999999	wordpress_a4994fad306e70153a0941747cd46584	+
+www.gingersoftware.com	TRUE	/content/wp-content/plugins	FALSE	1999999999	wordpress_sec_a4994fad306e70153a0941747cd46584	+
+www.gingersoftware.com	TRUE	/content/wp-admin	FALSE	1999999999	wordpress_a4994fad306e70153a0941747cd46584	+
+www.gingersoftware.com	TRUE	/content/wp-admin	FALSE	1999999999	wordpress_sec_a4994fad306e70153a0941747cd46584	+
+www.gingersoftware.com	TRUE	/content/	FALSE	1999999999	wordpress_logged_in_a4994fad306e70153a0941747cd46584	+
+www.gingersoftware.com	TRUE	/content/	FALSE	1999999999	wordpress_a4994fad306e70153a0941747cd46584	+
+www.gingersoftware.com	TRUE	/content/	FALSE	1999999999	wordpress_sec_a4994fad306e70153a0941747cd46584	+
+www.gingersoftware.com	TRUE	/content/	FALSE	1999999999	wordpressuser_a4994fad306e70153a0941747cd46584	+
+www.gingersoftware.com	TRUE	/content/	FALSE	1999999999	wordpresspass_a4994fad306e70153a0941747cd46584	+
+www.gingersoftware.com	TRUE	/content/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+gingersoftware.com	TRUE	/	FALSE	1999999999	do_not_redirect_to_personal_page	true
+www.gingersoftware.com	TRUE	/	FALSE	1999999999	_ginger_session	BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTdhMGEzYWQzMWQyMDlmZDFjMjc2ZGY4NmQ4NTk0YzFmBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXhWZW9pMG13OXBHeXRrRFR5dVJXSWVvcmtPeUNxL083MitKRk5kSXZ2Qk09BjsARg%3D%3D--03d5e0fecf588d4b3be4990fcec6a1068afe4430
+gingersoftware.com	TRUE	/	FALSE	1999999999	login_ref_url	%2Fmyginger%2Fuser
+ws.bluesnap.com	TRUE	/	FALSE	1999999999	TS01ebc14e	01b5d3bcb90327ed9a11d19b1c9c82846b180e0cc22ca9cea663d841492343f3c208ae307266bb3a8ecbf2f3d39b56bf55048d1fab
+.google.com	TRUE	/	FALSE	1999999999	NID	139=nIKN-4Pr0VA6lzsN7Slf_Qtk2IU5wLtYShC2ZiWEC-W-Us_iwex3ws4PyA3BTMUSxn-9-uW-Ds7NqibQy4EbpbRheUat2y1EYmaRq9Xi-gIvV8dMZ6WgXiPnhpD61ii9
+.tynt.com	TRUE	/	FALSE	1999999999	__cfduid	dc36439d7b8e5a8d4c1fac8bd2605a1971537961232
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	5bab6d11-2e9c0-eadda-725cd
+.maxmind.com	TRUE	/	FALSE	1999999999	__cfduid	d3be375dd54137e9e280ad1c7d2cf67c51537961247
+.theflagstore.ca	TRUE	/	FALSE	1999999999	__cfduid	d6207695199204df43e089c98ad0472031537967649
+.thetravelhack.com	TRUE	/	FALSE	1999999999	__cfduid	dd874be6bc7624dc975eb5b6ec0e581591537967910
+www.geek.com	TRUE	/	FALSE	1999999999	AWSALB	TH4ha4RSW3Q08TdIemPnQF1eBcgYjQnmK1m2EjSoDP1Rx6IQ/TggCPdkEJP+Bg3RmAo2EJYn+R1HcwYfEKbbw14sB/pVf6HkOxlYKeE59BeZBGTpxOrSIHCDY/vH
+.thumbpress.com	TRUE	/	FALSE	1999999999	__cfduid	df2287db61567a2a238ecdb59c96045d01537971818
+www.gingersoftware.com	TRUE	/	FALSE	1999999999	store	store_b
+
